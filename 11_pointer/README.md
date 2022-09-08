@@ -1,0 +1,1 @@
+pointer variable on C
