@@ -1,1 +1,1 @@
-sting datatype on C
+string datatype on C
