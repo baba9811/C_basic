@@ -7,6 +7,6 @@ int main(void)
     char input[10] = "I Love You";
     char result[10] = "Love";
     strcpy(result, input);
-    printf("¹®ÀÚ¿­ º¹»ç: %s\n", result);
+    printf("ë¬¸ìì—´ ë³µì‚¬: %s\n", result);
     return 0;
 }
