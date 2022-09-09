@@ -4,6 +4,6 @@
 int main(void)
 {
     char input[5] = "LOVE";
-    printf("¹®ÀÚ¿­ÀÇ ±æÀÌ : %d\n", strlen(input));
+    printf("ë¬¸ìì—´ì˜ ê¸¸ì´ : %d\n", strlen(input));
     return 0;
 }
